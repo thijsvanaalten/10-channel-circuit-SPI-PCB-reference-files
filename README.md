@@ -9,7 +9,7 @@ We want to help you take the next step in your product development cycle. You al
 
 **BOM** - Current bill of materials for the latest version of the 10-Channel SPI Sensing Circuit. Includes part numbers labels from design files, component values, and quantities.
 
-**Datasheets** - Datasheets for the important components used on the 10-Channel SPI Sensing Circuit, including the STM32F105R8 which is available as a pre-programmed IC from StretchSense, just [get in contact with our sales team](https://stretchsense.com/contact-us/). Our pre-programmed sensing IC contains 10 years worth of sensing algorithm refinement. Our circuitry removes any head aches around electronic/mathematical development on your side. To understand more about what we have achieved with our electronics check out our [blog on the topic](http://link.to.todd.blog). 
+**Datasheets** - Datasheets for the important components used on the 10-Channel SPI Sensing Circuit, including the STM32F105R8 which is available as a pre-programmed IC from StretchSense, just [get in contact with our sales team](https://stretchsense.com/contact-us/). Our pre-programmed sensing IC contains 10 years worth of sensing algorithm refinement. Our circuitry removes any head aches around electronic/mathematical development on your side. 
 
 **PDFs** - Includes detailed description of component placement on the 10-Channel SPI Sensing Circuit. Also includes mechanical drawings and a detailed schematic of the 10-Channel SPI Sensing Circuit for reference and debugging.
 
