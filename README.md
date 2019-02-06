@@ -1,4 +1,4 @@
-# 10-Channel circuit SPI PCB reference 
+# 10-Channel circuit SPI PCB reference design files
 
 ## About
 StretchSense is a global supplier of soft sensors. These soft sensors are perfect for measuring the complex movements of people and soft objects in our environments. 
