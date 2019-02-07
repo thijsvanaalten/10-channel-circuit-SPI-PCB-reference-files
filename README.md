@@ -7,7 +7,7 @@ StretchSense is a global supplier of soft sensors. These soft sensors are perfec
 This repository contains the hardware design files for the 10 channel circuit designed by StretchSense Ltd.  These are [available for purchase](https://stretchsense.com/shop) as a part of the StretchSense discovery kits on the StretchSense website. Explore the datasheet and quick-start guide on our [resources](https://stretchsense.com/article-resources/) page for more info about the circuit. 
 
 ### Why release these designs?
-We want to help you take the next step in your product development cycle. These design files will allow you to integrate our brains into your electronics hub, easing the prototyping of products that bring multiple sensor types together. The idea is for these files to be a "drop-in" to your existing PCB design, and with our pre-programmed sensing IC you will be up and running with as little effort as possible. 
+We want to help you take the next step in your product development cycle. These design files will allow you to integrate our products into your electronics hub, easing the prototyping of products that bring multiple sensor types together. The idea is for these files to be a "drop-in" to your existing PCB design, and with our pre-programmed sensing IC you will be up and running with as little effort as possible. 
 
 ### What's included?
 **Altium** - Schematic and board files for the 10 channel circuit. We use Altium for the development of our sensing circuitry. If you have other requirements please [contact us](https://stretchsense.com/contact-us/) and we will try to provide you with something you can work with. 
